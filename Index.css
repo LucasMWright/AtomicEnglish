@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Calibri;
+    padding: 12px;
+    background: #f1f1f1;
+}
+    
